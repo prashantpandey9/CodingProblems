@@ -1,0 +1,2 @@
+[LogLevel.DEBUG] 1733374834708 - This is a debug log
+[LogLevel.INFO] 1733374834708 - This is a Info log
