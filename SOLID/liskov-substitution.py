@@ -13,6 +13,7 @@ Without following the LSP, the code might look like this:
 
 class Vehicle:
     def start_engine(self):
+        #
         pass
 
 class Car(Vehicle):
